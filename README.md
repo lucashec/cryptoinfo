@@ -11,6 +11,6 @@ Aplicação para consulta de informações sobre criptomoedas com dados da API C
 ### Telas
 
 <p align="center">
-    <img src="./screens/main.png">
-    <img src="./screens/search.png">
+    <img src="https://github.com/lucashec/cryptoinfo/blob/master/screens/main.png?raw=true">
+    <img src="https://github.com/lucashec/cryptoinfo/blob/master/screens/search.png?raw=true">
 </p>
